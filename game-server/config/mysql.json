@@ -1,0 +1,17 @@
+{
+	"development": {
+		"host": "10.20.102.52",
+		"port": "3306",
+		"database": "demo",
+		"user": "caiyiheng",
+		"password": "caiyiheng"
+	},
+
+	"production": {
+		"host": "10.20.102.52",
+		"port": "3306",
+		"database": "demo",
+		"user": "caiyiheng",
+		"password": "caiyiheng"
+	}
+}

@@ -1,0 +1,3 @@
+cd game-server
+pomelo start -D
+cd ..

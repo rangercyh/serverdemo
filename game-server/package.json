@@ -1,0 +1,16 @@
+{
+	"name": "server-demo",
+	"version": "0.0.1",
+	"private": false,
+	"dependencies": {
+		"pomelo": "~1.0.0",
+		"async": ">=0.0.1",
+		"mysql": ">=2.0",
+		"pomelo-logger": "0.0.3",
+		"generic-pool": ">=1.0.9"
+	},
+	"devDependencies": {
+		"should": ">=0.0.1",
+		"mocha": ">=0.0.1"
+	}
+}
